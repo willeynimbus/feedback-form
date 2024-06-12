@@ -14,7 +14,7 @@ This project is a simple feedback application built with React and TypeScript. I
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/willeynimbus/feedback-form.git
+   git clone https://github.com/willeynimbus/Feedback.git
    cd feedback-app
    ```
 
@@ -88,3 +88,8 @@ The Web Worker is implemented to handle data fetching in a separate thread. This
 ### Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+### Screenshots
+
+- ![alt text](<Screenshot 2024-06-12 182827.png>)
+- ![alt text](<Screenshot 2024-06-12 182835.png>)
